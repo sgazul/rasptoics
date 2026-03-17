@@ -6,6 +6,7 @@ To run the script, I recommend doing the following:
 2) Create a virtual environment: python3 -m venv rasptoics
 3) Activate the virtual environment: rasptoics\Scripts\activate
 4) Install the required libraries (run this from the same directory since the venv is active): pip install pytz requests bs4 icalendar lxml
+
 Then try running the script.
 
 You can run the script with following parameters:
